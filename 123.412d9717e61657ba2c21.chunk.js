@@ -1,0 +1,1 @@
+webpackJsonp([123],{"./app/containers/HomePage/Scene1/joke-1.svg":function(e,c,n){e.exports=n.p+"65df5515b943862662724dca7e40dc6e.svg"}});
