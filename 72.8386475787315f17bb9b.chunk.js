@@ -1,1 +1,0 @@
-webpackJsonp([72],{"./app/containers/HomePage/Scene3/bubble-1-right.svg":function(a,e,c){a.exports=c.p+"71c6a6425a77ed3505fe478acaa21a7c.svg"}});

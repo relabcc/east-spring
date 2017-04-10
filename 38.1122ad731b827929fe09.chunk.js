@@ -1,1 +1,0 @@
-webpackJsonp([38],{"./app/containers/HomePage/Scene4/upfront-floor.svg":function(a,o,e){a.exports=e.p+"2a05a51fa8d6d367a9731215cb792d48.svg"}});

@@ -1,1 +1,0 @@
-webpackJsonp([26],{"./app/containers/HomePage/Scene5/vocano.svg":function(a,e,c){a.exports=c.p+"ca5aac903df00e2a2b0f5fc5db0899de.svg"}});

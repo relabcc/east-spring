@@ -1,1 +1,0 @@
-webpackJsonp([116],{"./app/containers/HomePage/Scene1/layer4.svg":function(e,a,c){e.exports=c.p+"f704300f3c546e6c3776aed0038110b9.svg"}});
