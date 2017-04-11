@@ -1,1 +1,0 @@
-webpackJsonp([8],{"./app/containers/HomePage/Volcano/story4.svg":function(c,o,a){c.exports=a.p+"37da8ccf199a413556098c73cd07431b.svg"}});

@@ -1,1 +1,0 @@
-webpackJsonp([127],{"./app/containers/HomePage/InTheWood/layer2.svg":function(a,e,o){a.exports=o.p+"c76df58ab6b20aafdf7aeb959b63caff.svg"}});

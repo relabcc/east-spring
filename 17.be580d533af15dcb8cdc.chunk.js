@@ -1,1 +1,0 @@
-webpackJsonp([17],{"./app/containers/HomePage/Volcano/bubble-right-2.svg":function(b,e,o){b.exports=o.p+"a61538e6db99f4778350c8ebb62bf95f.svg"}});

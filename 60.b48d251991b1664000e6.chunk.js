@@ -1,0 +1,1 @@
+webpackJsonp([60],{"./app/containers/HomePage/TheCave/light2.svg":function(e,f,p){e.exports=p.p+"2cef4730ffd37feecdb3989980ff55b0.svg"}});

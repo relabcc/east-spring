@@ -1,1 +1,0 @@
-webpackJsonp([59],{"./app/containers/HomePage/River/story3.svg":function(e,a,o){e.exports=o.p+"8c81fb28ebaa988ff64df6c84bbd9455.svg"}});
