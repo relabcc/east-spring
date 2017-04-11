@@ -1,1 +1,0 @@
-webpackJsonp([56],{"./app/containers/HomePage/TheCave/patch.svg":function(a,e,p){a.exports=p.p+"0626aa448f084221ddf64de51df607ab.svg"}});

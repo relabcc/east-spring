@@ -1,1 +1,0 @@
-webpackJsonp([25],{"./app/containers/HomePage/UnderGround/waypoint.svg":function(a,n,o){a.exports=o.p+"d3fc72c3df03b8b93473aa3a34f0cb9f.svg"}});

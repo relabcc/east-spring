@@ -1,1 +1,0 @@
-webpackJsonp([35],{"./app/containers/HomePage/UnderGround/slope-left.svg":function(e,a,n){e.exports=n.p+"5ef45bbda9a5828d8d3fe493a51a1c48.svg"}});
