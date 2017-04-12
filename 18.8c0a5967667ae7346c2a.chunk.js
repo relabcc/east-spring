@@ -1,1 +1,0 @@
-webpackJsonp([18],{"./app/containers/HomePage/Volcano/patch.svg":function(a,o,p){a.exports=p.p+"83d54828b348d8354c8f9176576ea4a4.svg"}});
