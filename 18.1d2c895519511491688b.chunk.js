@@ -1,0 +1,1 @@
+webpackJsonp([18],{"./app/containers/HomePage/Volcano/patch.png":function(p,c,n){p.exports=n.p+"161f626c228afbb9804b5eb2cc816d3f.png"}});

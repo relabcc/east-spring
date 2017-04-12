@@ -1,1 +1,0 @@
-webpackJsonp([120],{"./app/containers/HomePage/Volcano/upfront-exp-up.svg":function(p,o,a){p.exports=a.p+"d47247bce50af965f5b60196a66b0237.svg"}});

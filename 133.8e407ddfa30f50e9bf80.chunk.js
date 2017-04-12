@@ -1,1 +1,0 @@
-webpackJsonp([133],{"./app/containers/HomePage/Volcano/Layer-15.svg":function(a,o,e){a.exports=e.p+"d2774b746b96aa4b346fc6f848601b34.svg"}});
