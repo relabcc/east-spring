@@ -1,1 +1,0 @@
-webpackJsonp([58],{"./app/containers/HomePage/River/waypoint.png":function(p,a,c){p.exports=c.p+"a1cf71a674a542e5965e3c9c3648c5c7.png"}});

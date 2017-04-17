@@ -1,1 +1,0 @@
-webpackJsonp([44],{"./app/containers/HomePage/TheCave/patch.png":function(p,e,a){p.exports=a.p+"6d228f12720bfa379443dbf6be903c10.png"}});
