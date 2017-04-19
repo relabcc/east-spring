@@ -1,1 +1,0 @@
-webpackJsonp([79],{"./app/containers/HomePage/InTheWood/layer1.png":function(a,n,p){a.exports=p.p+"0cf299f0762a1c06592aa2f033904837.png"}});

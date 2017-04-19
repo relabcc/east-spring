@@ -1,1 +1,0 @@
-webpackJsonp([119],{"./app/containers/HomePage/Volcano/waypoint.svg":function(a,o,n){a.exports=n.p+"d2774b746b96aa4b346fc6f848601b34.svg"}});

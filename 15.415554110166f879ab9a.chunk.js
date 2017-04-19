@@ -1,1 +1,0 @@
-webpackJsonp([15],{"./app/containers/HomePage/Volcano/story2.png":function(c,n,o){c.exports=o.p+"f3c88fedc363b10934d9f480971c1cb7.png"}});
