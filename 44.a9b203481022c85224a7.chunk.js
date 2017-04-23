@@ -1,1 +1,0 @@
-webpackJsonp([44],{"./app/containers/HomePage/Scenes/TheCave/upfront-floor.png":function(e,n,p){e.exports=p.p+"7bc417710d706de26cf4b753d1e71d40.png"}});

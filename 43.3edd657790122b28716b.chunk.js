@@ -1,1 +1,0 @@
-webpackJsonp([43],{"./app/containers/HomePage/Scenes/TheCave/waypoint.png":function(e,a,n){e.exports=n.p+"cb89a15f5e8d5a931c23e73a372223da.png"}});

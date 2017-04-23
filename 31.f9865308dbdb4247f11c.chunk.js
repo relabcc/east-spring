@@ -1,1 +1,0 @@
-webpackJsonp([31],{"./app/containers/HomePage/Scenes/UnderGround/slope-right.png":function(e,n,p){e.exports=p.p+"96e6e7af29d60707b7076ccbd5d54194.png"}});

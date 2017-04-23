@@ -1,0 +1,1 @@
+webpackJsonp([28],{"./app/containers/HomePage/Scenes/Volcano/mobi-patch.png":function(c,n,p){c.exports=p.p+"78c99718f9c6c2f4348836bed6181965.png"}});
