@@ -1,1 +1,0 @@
-webpackJsonp([79],{"./app/containers/HomePage/InTheWood/pattern.png":function(e,n,p){e.exports=p.p+"7b0cd6c7f97dc411e3e8655149c4e7b1.png"}});

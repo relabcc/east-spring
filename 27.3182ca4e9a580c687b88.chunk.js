@@ -1,1 +1,0 @@
-webpackJsonp([27],{"./app/containers/HomePage/UnderGround/upfront-wave.png":function(e,n,p){e.exports=p.p+"399d4a14e951fbe24aec15864f581685.png"}});

@@ -1,1 +1,0 @@
-webpackJsonp([78],{"./app/containers/HomePage/InTheWood/product.png":function(e,p,n){e.exports=n.p+"34008aeb57962b45bec34d9e04f5b1e3.png"}});

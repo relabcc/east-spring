@@ -1,1 +1,0 @@
-webpackJsonp([12],{"./app/containers/HomePage/Volcano/upfront-exp-up.png":function(p,n,e){p.exports=e.p+"4860d570e62d73f5ed73896d4b21d0fb.png"}});
