@@ -1,1 +1,0 @@
-webpackJsonp([85],{"./app/containers/HomePage/Scenes/TheCave/mobi-waypoint.png":function(e,n,p){e.exports=p.p+"f8cd6b1978ec52649a2dd13fd2885fa4.png"}});

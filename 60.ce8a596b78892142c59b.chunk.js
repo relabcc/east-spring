@@ -1,1 +1,0 @@
-webpackJsonp([60],{"./app/containers/HomePage/Scenes/UnderGround/mobi-product.png":function(a,e,n){a.exports=n.p+"3a00babcf94bb7364a61a3a3ee935a34.png"}});

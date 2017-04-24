@@ -1,1 +1,0 @@
-webpackJsonp([127],{"./app/containers/HomePage/Scenes/River/mobi-waypoint.png":function(e,n,p){e.exports=p.p+"912d6fb356f335c52ade9c6bf1ffa95b.png"}});
