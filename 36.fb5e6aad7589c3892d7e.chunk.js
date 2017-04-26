@@ -1,1 +1,0 @@
-webpackJsonp([36],{"./app/containers/HomePage/Scenes/Volcano/floor.png":function(a,e,n){a.exports=n.p+"dd04bba3ed382166a8445aa3b44ecbf6.png"}});

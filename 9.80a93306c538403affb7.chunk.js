@@ -1,1 +1,0 @@
-webpackJsonp([9],{"./app/containers/HomePage/Scenes/Volcano/waypoint.png":function(n,e,p){n.exports=p.p+"903f1aa8b58192d0e5d4c35de8b0f400.png"}});
