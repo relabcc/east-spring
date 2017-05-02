@@ -1,1 +1,0 @@
-webpackJsonp([40],{"./app/containers/HomePage/Scenes/Volcano/mobi-bubble-right-2.png":function(e,c,n){e.exports=n.p+"e85ee04cac7b096b835c208cd321c55d.png"}});

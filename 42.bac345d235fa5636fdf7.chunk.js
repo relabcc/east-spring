@@ -1,1 +1,0 @@
-webpackJsonp([42],{"./app/containers/HomePage/Scenes/Volcano/mobi-Layer-16.png":function(e,n,o){e.exports=o.p+"dd6ed00df7f820016e11b9316c2e8402.png"}});
