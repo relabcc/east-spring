@@ -1,0 +1,42 @@
+[{
+  "id": 1,
+  "name": "高收益債",
+  "color": "#9bbfd5"
+}, {
+  "id": 2,
+  "name": "亞洲債券",
+  "color": "#c1dfc5"
+}, {
+  "id": 3,
+  "name": "亞洲當地貨幣債",
+  "color": "#c1dfc5"
+}, {
+  "id": 4,
+  "name": "投資等級債",
+  "color": "#b2d6e9"
+}, {
+  "id": 5,
+  "name": "公司債",
+  "color": "#9cd0b6"
+}, {
+  "id": 6,
+  "name": "美國複合收益債",
+  "color": "#b2d6e9"
+}, {
+  "id": 7,
+  "name": "亞洲股票收益",
+  "color": "#c1dfc5",
+  "active": true
+}, {
+  "id": 8,
+  "name": "亞洲股票",
+  "color": "#c1dfc5"
+}, {
+  "id": 9,
+  "name": "全球股票",
+  "color": "#9bbfd5"
+}, {
+  "id": 10,
+  "name": "北美股票",
+  "color": "#b2d6e9"
+}]
